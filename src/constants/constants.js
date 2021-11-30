@@ -23,7 +23,7 @@ export const projects = [
     title: "Beker Blog",
     description:
       "This is a blog site that I have done with React JS, Graph CMS and also with Graphql. It helped me a lot to learn the graphql and graphcms logic, since it was the first time that I have used them. It is a very fast website.",
-    image: "/images/3.png",
+    image: "/images/3.PNG",
     tags: ["Graph CMS", "Next", "Graphql"],
     source: "https://beker-blog-graph-cms-next-js.vercel.app/",
     visit: "https://github.com/Ebubeker/Beker-Blog-GraphCMS-Next-JS",
