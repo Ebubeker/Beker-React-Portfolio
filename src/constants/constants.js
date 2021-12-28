@@ -10,6 +10,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Ray Social",
+    description:
+      "Ray social is a minimal social media platform that has a small number of functionalities. In this project I showed how to create an account, login, make posts, save posts, comment on posts, follow people and unfollow them and I also made a small Inbox, it works normally but don't expect anything huge cz it was built under a month.",
+    image: "/images/4.png",
+    tags: ["React", "ChatEngine", "Firebase"],
+    source: "https://ray-social.herokuapp.com/",
+    visit: "https://github.com/Ebubeker/social-media-react-redux-node-js-",
+    id: 1,
+  },
+  {
     title: "Beker Developer",
     description:
       "This was my previous portfolio website, I built it using Node Js with express and also using views for the user interface. It was one of my best projects which made me feel very proud of.",
@@ -17,7 +27,7 @@ export const projects = [
     tags: ["Mongo", "Express", "View Engine", "Node"],
     source: "https://bekerdev.herokuapp.com/",
     visit: "https://github.com/Ebubeker/beker-dev",
-    id: 1,
+    id: 2,
   },
   {
     title: "Beker Blog",
@@ -27,18 +37,8 @@ export const projects = [
     tags: ["Graph CMS", "Next", "Graphql"],
     source: "https://beker-blog-graph-cms-next-js.vercel.app/",
     visit: "https://github.com/Ebubeker/Beker-Blog-GraphCMS-Next-JS",
-    id: 2,
+    id: 3,
   },
-  // {
-  //   title: "Unichat",
-  //   description:
-  //     "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: "/images/4.jpg",
-  //   tags: ["React", "ChatEngine", "Firebase"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 3,
-  // },
 ];
 
 export const TimeLineData = [
