@@ -14,7 +14,7 @@ export const projects = [
     description:
       "Ray social is a minimal social media platform that has a small number of functionalities. In this project I showed how to create an account, login, make posts, save posts, comment on posts, follow people and unfollow them and I also made a small Inbox, it works normally but don't expect anything huge cz it was built under a month.",
     image: "/images/4.png",
-    tags: ["React", "ChatEngine", "Firebase"],
+    tags: ["React", "Node", "MongoDB", "Express"],
     source: "https://ray-social.herokuapp.com/",
     visit: "https://github.com/Ebubeker/social-media-react-redux-node-js-",
     id: 1,
