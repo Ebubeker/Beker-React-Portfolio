@@ -30,13 +30,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Beker Blog",
+    title: "Golden Meat",
     description:
-      "This is a blog site that I have done with React JS, Graph CMS and also with Graphql. It helped me a lot to learn the graphql and graphcms logic, since it was the first time that I have used them. It is a very fast website.",
+      "This is a Restaurant page which showcases the Restaurant and its services including online service. It also has a job section and a Menu page. The websit e is loaded up with images and it has a great and beautiful UI with great fonts.",
     image: "/images/3.PNG",
-    tags: ["Graph CMS", "Next", "Graphql"],
-    source: "https://beker-blog-graph-cms-next-js.vercel.app/",
-    visit: "https://github.com/Ebubeker/Beker-Blog-GraphCMS-Next-JS",
+    tags: ["Next.js", "CSS"],
+    source: "https://golden-meat.herokuapp.com/",
+    visit: "https://github.com/Ebubeker/GoldenMeal",
     id: 3,
   },
 ];
