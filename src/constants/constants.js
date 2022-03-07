@@ -20,13 +20,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Beker Developer",
+    title: "KF Vllaznia Website",
     description:
-      "This was my previous portfolio website, I built it using Node Js with express and also using views for the user interface. It was one of my best projects which made me feel very proud of.",
+      "This website was done to practice mostly my backend skills. I also had a ton of job to do in rect too. I will say I'm proud of this project, even though it hasn't been finished completely.",
     image: "/images/2.png",
-    tags: ["Mongo", "Express", "View Engine", "Node"],
-    source: "https://bekerdev.herokuapp.com/",
-    visit: "https://github.com/Ebubeker/beker-dev",
+    tags: ["GraphCMS", "Graphql", "Next Js", "CSS"],
+    source: "https://vllaznia-unofficial-website.vercel.app/",
+    visit: "https://github.com/Ebubeker/vllazniaUnofficialWebsite",
     id: 2,
   },
   {
@@ -37,6 +37,16 @@ export const projects = [
     tags: ["Next.js", "CSS"],
     source: "https://golden-meat.herokuapp.com/",
     visit: "https://github.com/Ebubeker/GoldenMeal",
+    id: 3,
+  },
+  {
+    title: "Medreseja Library",
+    description:
+      "This is a project that I have done for my school in order to register the books online. It was a bit tough but I managed to finish doing it. It has made the registration and the book lending way more easier than it was.",
+    image: "/images/5.PNG",
+    tags: ["React Js", "Node Js", "MongoDB", "Axios"],
+    source: "https://github.com/Ebubeker/medreseja-library",
+    visit: "https://github.com/Ebubeker/medreseja-library",
     id: 3,
   },
 ];
