@@ -10,13 +10,13 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Ray Social",
+    title: "Smilee Social",
     description:
-      "Ray social is a minimal social media platform that has a small number of functionalities. In this project I showed how to create an account, login, make posts, save posts, comment on posts, follow people and unfollow them and I also made a small Inbox, it works normally but don't expect anything huge cz it was built under a month.",
-    image: "/images/4.png",
-    tags: ["React", "Node", "MongoDB", "Express"],
-    source: "https://ray-social.herokuapp.com/",
-    visit: "https://github.com/Ebubeker/social-media-react-redux-node-js-",
+      "Smilee is a project where I worked to make the current social media website (RaySocial) better. Ray social was having a lot of problems so it was not worth to waste too much time in it. I used React and firebase for this.",
+    image: "/images/smilee.png",
+    tags: ["React", "Firebase", "Styled-Components"],
+    source: "https://smilee.vercel.app/",
+    visit: "https://github.com/Ebubeker/smilee",
     id: 1,
   },
   {
